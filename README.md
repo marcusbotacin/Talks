@@ -30,3 +30,7 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## SEMAC 2016
 
 [Mil e uma noites com malware no Brasil](SEMAC/semac.pdf)
+
+## MSC
+
+[Master dissertation presentation](MSC/master.pdf)

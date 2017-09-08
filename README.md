@@ -34,3 +34,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## MSC
 
 [Master dissertation presentation](MSC/master.pdf)
+
+## SBSEG 2017
+[Analysis, Anti-Analysis, Anti-Anti-Analysis: An Overview of the Evasive Malware Scenario](SBSEG17/slides.pdf)

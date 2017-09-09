@@ -35,5 +35,9 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 [Master dissertation presentation](MSC/master.pdf)
 
+# UFPR17
+
+[1001 noites com malsare no Brasil](UFPR17/semana.pdf)
+
 ## SBSEG 2017
 [Analysis, Anti-Analysis, Anti-Anti-Analysis: An Overview of the Evasive Malware Scenario](SBSEG17/slides.pdf)

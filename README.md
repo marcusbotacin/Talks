@@ -35,8 +35,8 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## SBSEG 2017
 [Analysis, Anti-Analysis, Anti-Anti-Analysis: An Overview of the Evasive Malware Scenario](SBSEG17/slides.pdf)
 
-## UFPR 2018.1
-[Ataques contra Sistemas Computacionais](UFPR18.1/intro.pdf)
+## UFPR 2018_1
+[Ataques contra Sistemas Computacionais](UFPR18_1/intro.pdf)
 
-## UFPR 2018.2
-[Code Vulnerabilities & Attacks](UFPR18.2/attacks.pdf)
+## UFPR 2018_2
+[Code Vulnerabilities & Attacks](UFPR18_2/attacks.pdf)

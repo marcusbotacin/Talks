@@ -1,0 +1,15 @@
+\frametitle{Dirty Cow}
+	\begin{block}{Part III - Read Fault}
+\begin{lstlisting}[frame=lrtb]
+cond_resched -> different thread will now
+unmap via madvise
+ follow_page_mask  !pte_present && pte_none
+  faultin_page
+   handle_mm_fault
+    __handle_mm_fault
+     handle_pte_fault
+      do_fault <- pte is not present
+        do_read_fault <- this is a read
+fault and we will get pagecache
+\end{lstlisting}
+	\end{block}

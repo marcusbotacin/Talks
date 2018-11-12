@@ -40,3 +40,9 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## UFPR 2018b
 [Code Vulnerabilities & Attacks](UFPR18b/attacks.pdf)
+
+## SBSEG 2018
+[Hardware-Assisted Malware Analysis](SBSEG18/ctd.pdf)
+
+## FAU @ Erlangen 2018
+[Monitoring Systems & Binaries](FAU18/monitoring.pdf)

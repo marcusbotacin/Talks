@@ -41,8 +41,20 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## UFPR 2018b
 [Code Vulnerabilities & Attacks](UFPR18b/attacks.pdf)
 
-## SBSEG 2018
+## SBSEG 2018a (Awarded Dissertation)
 [Hardware-Assisted Malware Analysis](SBSEG18/ctd.pdf)
+
+## SBSEG 2018b (Main Track)
+
+[Hardware-Assisted Application Misbehavior Detection](SBSEG18/misbehavior.pdf)
+
+## SBSEG 2018c (Awarded Student Paper)
+
+[Malicious Linux Binaries: A Landscape](SBSEG18/elf.pdf)
+
+## SBSEG 2018d (Student Paper)
+
+[Large Scale Studies: Malware Needles in a Haystack](SBSEG18/large.pdf)
 
 ## FAU @ Erlangen 2018
 [Monitoring Systems & Binaries](FAU18/monitoring.pdf)

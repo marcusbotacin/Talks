@@ -61,3 +61,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## RECOSOC 2019 @ YORK University
 [REHAB AV](RECOSOC19/slides.pdf)
+
+## Linux Developer Conference Brazil 2019
+[Malicious ELF Binaries: A Landscape](LinuxDevBR/slides.pdf)

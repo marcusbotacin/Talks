@@ -56,8 +56,11 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 [Large Scale Studies: Malware Needles in a Haystack](SBSEG18/large.pdf)
 
-## FAU @ Erlangen 2018
+## FAU @ Erlangen 2018A
 [Monitoring Systems & Binaries](FAU18/monitoring.pdf)
+
+## FAU @ Erlangen 2018B
+[Windows Kernel \& Driver Development](FAU18/kernel.pdf)
 
 ## RECOSOC 2019 @ YORK University
 [REHAB AV](RECOSOC19/slides.pdf)

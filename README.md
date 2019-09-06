@@ -64,3 +64,10 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## Linux Developer Conference Brazil 2019
 [Malicious ELF Binaries: A Landscape](LinuxDevBR/slides.pdf)
+
+## SBSEG 2019a (Main Track)
+[Malware Variants Identification in Practice](SBSEG19/variants.pdf)
+
+## SBSEG 2019b (Student Paper)
+
+[Machine Learning for Malware Detection: Beyond Accuracy Rates](SBSEG19/elf_classifier.pdf)

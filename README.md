@@ -56,10 +56,10 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 [Large Scale Studies: Malware Needles in a Haystack](SBSEG18/large.pdf)
 
-## FAU @ Erlangen 2018A
+## FAU @ Erlangen 2018a
 [Monitoring Systems & Binaries](FAU18/monitoring.pdf)
 
-## FAU @ Erlangen 2018B
+## FAU @ Erlangen 2018b
 [Windows Kernel \& Driver Development](FAU18/kernel.pdf)
 
 ## RECOSOC 2019 @ YORK University
@@ -72,5 +72,4 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 [Malware Variants Identification in Practice](SBSEG19/variants.pdf)
 
 ## SBSEG 2019b (Student Paper)
-
 [Machine Learning for Malware Detection: Beyond Accuracy Rates](SBSEG19/elf_classifier.pdf)

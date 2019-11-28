@@ -75,4 +75,4 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 [Machine Learning for Malware Detection: Beyond Accuracy Rates](SBSEG19/elf_classifier.pdf)
 
 ##  Reversing and Offensive-oriented Trends Symposium (ROOTS) 2019
-[RevEngE is a Dish Served Cold: Towards Malware Decompilation and Reassembly](ROOTS/roots.pdf)
+[RevEngE is a Dish Served Cold: Towards Malware Decompilation and Reassembly](ROOTS19/roots.pdf)

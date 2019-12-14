@@ -1,7 +1,7 @@
 # Talks
 My Talks
 
-## GTS26
+## GTS26 (Portuguese-Only)
 [Análise de malware coletado entre 2012-2015](GTS26/02-analise-malware.pdf)
 
 ## SBSEG 2014
@@ -76,3 +76,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ##  Reversing and Offensive-oriented Trends Symposium (ROOTS) 2019
 [RevEngE is a Dish Served Cold: Towards Malware Decompilation and Reassembly](ROOTS19/roots.pdf)
+
+## GTS34 (Portuguese-Only)
+[Análise do Malware Ativo na Internet Brasileira: 4 anos depois. O que mudou?](GTS34/slides.pdf)

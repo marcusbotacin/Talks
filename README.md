@@ -79,3 +79,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## GTS34 (Portuguese-Only)
 [Análise do Malware Ativo na Internet Brasileira: 4 anos depois. O que mudou?](GTS34/slides.pdf)
+
+## DIMVA2020
+[On the Security of Application Installers & Online Software Repositories](DIMVA2020/slides.pdf)

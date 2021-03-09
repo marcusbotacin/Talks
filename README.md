@@ -85,3 +85,9 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## SBSEG 2020
 [An Empirical Study on the Blocking of HTTP and DNS Requests at Providers Level to Counter In-The-Wild Malware Infections](SBSEG20/slides.pdf)
+
+## GTS35 (2020)
+[Integridade, confidencialidade, disponibilidade, ransomware](GTS35/gts.pdf)
+
+## USENIX ENIGMA 2021
+[Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Internet Banking Security to Show that it Should!](ENIGMA2021/enigma.pdf)

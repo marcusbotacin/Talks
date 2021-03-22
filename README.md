@@ -83,6 +83,9 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## DIMVA2020
 [On the Security of Application Installers & Online Software Repositories](DIMVA2020/slides.pdf)
 
+## MEMSYS2020
+[Near-memory & In-Memory Detection of Fileless Malware](MEMSYS20/slides.pdf)
+
 ## SBSEG 2020
 [An Empirical Study on the Blocking of HTTP and DNS Requests at Providers Level to Counter In-The-Wild Malware Infections](SBSEG20/slides.pdf)
 

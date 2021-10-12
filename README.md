@@ -94,3 +94,10 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## USENIX ENIGMA 2021
 [Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Internet Banking Security to Show that it Should!](ENIGMA2021/enigma.pdf)
+
+## UFPR21 (Security Course Updated Version)
+[Code Vulnerabilities & Attacks: TOCTOU](UFPR21/toctou.pdf)
+
+[Code Vulnerabilities & Attacks: Classic Buffer Overflow](UFPR21/buffer.pdf)
+
+[Code Vulnerabilities & Attacks: Modern Buffer Overflow Exploitations and Mitigations](UFPR21/rop.pdf)

@@ -101,3 +101,7 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 [Code Vulnerabilities & Attacks: Classic Buffer Overflow](UFPR21/buffer.pdf)
 
 [Code Vulnerabilities & Attacks: Modern Buffer Overflow Exploitations and Mitigations](UFPR21/rop.pdf)
+
+## Waikato University (Seminar)
+
+[All You Need to Know to Win a Cybersecurity Adversarial Machine Learning Competition and Make Malware Attacks Practical](Waikato/mlsec.pdf)

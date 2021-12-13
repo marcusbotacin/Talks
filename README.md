@@ -105,3 +105,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## Waikato University (Seminar)
 
 [All You Need to Know to Win a Cybersecurity Adversarial Machine Learning Competition and Make Malware Attacks Practical](Waikato/mlsec.pdf)
+
+## PhD Defense (2021)
+[On the Malware Detection Problem: Challenges and New Approaches](PhD/slides.pdf)

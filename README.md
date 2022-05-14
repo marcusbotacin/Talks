@@ -111,3 +111,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## PhD Defense (2021)
 [On the Malware Detection Problem: Challenges and New Approaches](PhD/slides.pdf)
+
+## Federal University of Minas Gerais (UFMG Seminar)
+[Among Viruses, Trojans, and Backdoors:Fighting Malware in 2022](UFMG22/ufmg.pdf)

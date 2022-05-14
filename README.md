@@ -95,6 +95,9 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## USENIX ENIGMA 2021
 [Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Internet Banking Security to Show that it Should!](ENIGMA2021/enigma.pdf)
 
+## UFPR21 (Data Science Course -- In Portuguese)
+[Extraindo Caracterı́sticas de Arquivos Binários Executáveis](UFPR21/PE.pdf)
+
 ## UFPR21 (Security Course Updated Version)
 [Code Vulnerabilities & Attacks: TOCTOU](UFPR21/toctou.pdf)
 

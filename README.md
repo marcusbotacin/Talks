@@ -105,6 +105,10 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 [Code Vulnerabilities & Attacks: Modern Buffer Overflow Exploitations and Mitigations](UFPR21/rop.pdf)
 
+## SBSEG 2021
+
+[Corvus: Uma solução Sandbox e de Threat Intelligence para Identificação e Análise de Malware](https://www.youtube.com/watch?v=cYeFDbaz5l0)
+
 ## Waikato University (Seminar)
 
 [All You Need to Know to Win a Cybersecurity Adversarial Machine Learning Competition and Make Malware Attacks Practical](Waikato/mlsec.pdf) [Video](https://www.youtube.com/watch?v=3NM1DKKqk1w)
@@ -112,6 +116,8 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## PhD Defense (2021)
 [On the Malware Detection Problem: Challenges and New Approaches](PhD/slides.pdf) [Video](https://www.youtube.com/watch?v=_ZnEm1mtzSw)
 
-## Federal University of Minas Gerais (UFMG Seminar)
+## Federal University of Minas Gerais, 2022 (UFMG Seminar)
 [Among Viruses, Trojans, and Backdoors:Fighting Malware in 2022](UFMG22/ufmg.pdf) [Video](https://www.youtube.com/watch?v=ybH5EtOTm2Y)
 
+## SBSEG 2022
+[On the Malware Detection Problem](SBSEG22/slide.pdf) [Video](https://www.youtube.com/watch?v=YZ144WRsmuw)

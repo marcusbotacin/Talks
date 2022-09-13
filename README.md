@@ -2,7 +2,7 @@
 My Talks
 
 ## GTS26 (Portuguese-Only)
-[Análise de malware coletado entre 2012-2015](GTS26/02-analise-malware.pdf)
+[Análise de malware coletado entre 2012-2015](GTS26/02-analise-malware.pdf) [Video](https://www.youtube.com/watch?v=JoQf2bB7vCQ)
 
 ## SBSEG 2014
 [Monitoração de comportamento de malware em
@@ -36,10 +36,10 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 [Analysis, Anti-Analysis, Anti-Anti-Analysis: An Overview of the Evasive Malware Scenario](SBSEG17/slides.pdf)
 
 ## UFPR 2018a
-[Ataques contra Sistemas Computacionais](UFPR18a/intro.pdf)
+[Ataques contra Sistemas Computacionais](UFPR18a/intro.pdf) [Video 1](https://www.youtube.com/watch?v=Mrc1QUVW2o8) [Video 2](https://www.youtube.com/watch?v=ffAjXuR_YuI)
 
 ## UFPR 2018b
-[Code Vulnerabilities & Attacks](UFPR18b/attacks.pdf)
+[Code Vulnerabilities & Attacks](UFPR18b/attacks.pdf) [Video 1](https://www.youtube.com/watch?v=AgTwbKrZduw) [Video 2](https://www.youtube.com/watch?v=sbyyPeIJlCE)
 
 ## SBSEG 2018a (Awarded Dissertation)
 [Hardware-Assisted Malware Analysis](SBSEG18/ctd.pdf)
@@ -66,7 +66,7 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 [REHAB AV](RECOSOC19/slides.pdf)
 
 ## Linux Developer Conference Brazil 2019
-[Malicious ELF Binaries: A Landscape](LinuxDevBR/slides.pdf)
+[Malicious ELF Binaries: A Landscape](LinuxDevBR/slides.pdf) [Video](https://www.youtube.com/watch?v=cdP8aKqoYio)
 
 ## SBSEG 2019a (Main Track)
 [Malware Variants Identification in Practice](SBSEG19/variants.pdf)
@@ -78,22 +78,22 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 [RevEngE is a Dish Served Cold: Towards Malware Decompilation and Reassembly](ROOTS19/roots.pdf)
 
 ## GTS34 (Portuguese-Only)
-[Análise do Malware Ativo na Internet Brasileira: 4 anos depois. O que mudou?](GTS34/slides.pdf)
+[Análise do Malware Ativo na Internet Brasileira: 4 anos depois. O que mudou?](GTS34/slides.pdf) [Video](https://www.youtube.com/watch?v=jzLc2w8R9No)
 
 ## DIMVA2020
-[On the Security of Application Installers & Online Software Repositories](DIMVA2020/slides.pdf)
+[On the Security of Application Installers & Online Software Repositories](DIMVA2020/slides.pdf) [Video](https://www.youtube.com/watch?v=21S38y-cryQ)
 
 ## MEMSYS2020
-[Near-memory & In-Memory Detection of Fileless Malware](MEMSYS20/slides.pdf)
+[Near-memory & In-Memory Detection of Fileless Malware](MEMSYS20/slides.pdf) [Video](https://www.youtube.com/watch?v=gSrrmUE-VsQ)
 
 ## SBSEG 2020
-[An Empirical Study on the Blocking of HTTP and DNS Requests at Providers Level to Counter In-The-Wild Malware Infections](SBSEG20/slides.pdf)
+[An Empirical Study on the Blocking of HTTP and DNS Requests at Providers Level to Counter In-The-Wild Malware Infections](SBSEG20/slides.pdf) [Video](https://www.youtube.com/watch?v=TIpy_JIhbf8)
 
 ## GTS35 (2020)
-[Integridade, confidencialidade, disponibilidade, ransomware](GTS35/gts.pdf)
+[Integridade, confidencialidade, disponibilidade, ransomware](GTS35/gts.pdf) [Video](https://www.youtube.com/watch?v=yGH5-WDFopA)
 
 ## USENIX ENIGMA 2021
-[Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Internet Banking Security to Show that it Should!](ENIGMA2021/enigma.pdf)
+[Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Internet Banking Security to Show that it Should!](ENIGMA2021/enigma.pdf) [Video](https://www.youtube.com/watch?v=5mrEJ83rBDY&pp=ugMICgJwdBABGAE%3D)
 
 ## UFPR21 (Data Science Course -- In Portuguese)
 [Extraindo Caracterı́sticas de Arquivos Binários Executáveis](UFPR21/PE.pdf)
@@ -107,10 +107,11 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## Waikato University (Seminar)
 
-[All You Need to Know to Win a Cybersecurity Adversarial Machine Learning Competition and Make Malware Attacks Practical](Waikato/mlsec.pdf)
+[All You Need to Know to Win a Cybersecurity Adversarial Machine Learning Competition and Make Malware Attacks Practical](Waikato/mlsec.pdf) [Video](https://www.youtube.com/watch?v=3NM1DKKqk1w)
 
 ## PhD Defense (2021)
-[On the Malware Detection Problem: Challenges and New Approaches](PhD/slides.pdf)
+[On the Malware Detection Problem: Challenges and New Approaches](PhD/slides.pdf) [Video](https://www.youtube.com/watch?v=_ZnEm1mtzSw)
 
 ## Federal University of Minas Gerais (UFMG Seminar)
-[Among Viruses, Trojans, and Backdoors:Fighting Malware in 2022](UFMG22/ufmg.pdf)
+[Among Viruses, Trojans, and Backdoors:Fighting Malware in 2022](UFMG22/ufmg.pdf) [Video](https://www.youtube.com/watch?v=ybH5EtOTm2Y)
+

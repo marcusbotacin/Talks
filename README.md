@@ -121,3 +121,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## SBSEG 2022
 [On the Malware Detection Problem](SBSEG22/slide.pdf) [Video](https://www.youtube.com/watch?v=YZ144WRsmuw)
+
+## Texas A&M University (TAMU) - Seminar Series (2022)
+[How do we detect malware? A step-by-step guide](TAMU22/slide.pdf)

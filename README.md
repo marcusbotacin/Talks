@@ -127,3 +127,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## University of York, UK - Real Time Systems Group Seminar (2022)
 [Hardware-accelerated security monitoring](YORK22/slide.pdf)
+
+## USENIX ENIGMA 2023
+[Why Is Our Security Research Failing? Five Practices to Change!](ENIGMA23/slides.pdf)

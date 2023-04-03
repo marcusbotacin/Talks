@@ -130,3 +130,9 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## USENIX ENIGMA 2023
 [Why Is Our Security Research Failing? Five Practices to Change!](ENIGMA23/slides.pdf)
+
+## Texas A&M University (TAMU) - Seminar Series (CSE681)
+
+[All You Need to Know to Win a Cybersecurity Adversarial Machine Learning Competition and Make Malware Attacks Practical](Waikato/mlsec.pdf)
+
+

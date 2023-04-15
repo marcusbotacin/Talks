@@ -135,4 +135,5 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 [All You Need to Know to Win a Cybersecurity Adversarial Machine Learning Competition and Make Malware Attacks Practical](Waikato/mlsec.pdf)
 
-
+## Texas A&M University (TAMU) - Talk to Honor Students (Spring23)
+[How do we detect malware? A step-by-step guide](TAMU22/slide.pdf)

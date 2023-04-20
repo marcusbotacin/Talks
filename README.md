@@ -131,6 +131,11 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## USENIX ENIGMA 2023
 [Why Is Our Security Research Failing? Five Practices to Change!](ENIGMA23/slides.pdf)
 
+## Texas A&M University (TAMU) - Seminar Series (CSE681/Spring23)
+[All You Need to Know to Win a Cybersecurity Adversarial Machine Learning Competition and Make Malware Attacks Practical](Waikato/mlsec.pdf)
+
+## Texas A&M University (TAMU) - Talk to Honor Students (Spring23)
+[How do we detect malware? A step-by-step guide](TAMU22/slide.pdf)
+
 ## Hack In The Box (HITB) 2023
 [All You Always Wanted to Know About AntiViruses](HITB23/hitb.pdf)
-

@@ -144,4 +144,4 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 [Gerando ataques e defesas automaticamente com GPT, ChatGPT e outras automações](FPGCPR23/slide.pdf) [Video](https://www.youtube.com/watch?v=Wx_ZH97SMao) (Portuguese-Only)
 
 ## Workshop on Offensive Security (WOOT) - 2023
-[GPThreas-3: Is Automated Malware Generation a Threat?](WOOT23/slide.pdf)
+[GPThreats-3: Is Automated Malware Generation a Threat?](WOOT23/slide.pdf)

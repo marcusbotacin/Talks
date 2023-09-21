@@ -145,3 +145,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## Workshop on Offensive Security (WOOT) - 2023
 [GPThreas-3: Is Automated Malware Generation a Threat?](WOOT23/slide.pdf)
+
+## Brazilian Security Symposium (SBSEG) - Keynote - 2023
+[Near-memory & In-Memory Detection of Fileless Malware](SBSEG23/slides.pdf)

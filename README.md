@@ -148,3 +148,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## Brazilian Security Symposium (SBSEG) - Keynote - 2023
 [Near-memory & In-Memory Detection of Fileless Malware](SBSEG23/slides.pdf)
+
+## Texas A&M University (TAMU) - Introduction to Computing - Spring/2024
+[Machine Learning by Examples](TAMU24/slides.pdf)

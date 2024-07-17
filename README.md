@@ -151,3 +151,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## Texas A&M University (TAMU) - Introduction to Computing - Spring/2024
 [Machine Learning by Examples](TAMU24/slides.pdf)
+
+## InfraRede - Brazilian Internet Committee - 2024
+[Pilares da Segurança e Chaves criptográficas](InfraRede24/slide.pdf)

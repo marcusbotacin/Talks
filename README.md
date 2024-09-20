@@ -154,3 +154,6 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## InfraRede - Brazilian Internet Committee - 2024
 [Pilares da Segurança e Chaves criptográficas](InfraRede24/slide.pdf)
+
+## Global CyberSecurity Research Institute (GCRI), TAMU - 2024
+[Research @ Botacin's Lab](GCRI24/botacin-lab.pdf)

@@ -140,8 +140,23 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 ## Hack In The Box (HITB) 2023
 [All You Always Wanted to Know About AntiViruses](HITB23/hitb.pdf)
 
-## Global CyberSecurity Reseach Institute (GCRI) - TAMU, 2024
-[Research @ Botacin's Lab](GCRI/botacin-lab.pdf)
+# Fórum dos Programas de Pós-Graduação em Computação do Paraná - 2023
+[Gerando ataques e defesas automaticamente com GPT, ChatGPT e outras automações](FPGCPR23/slide.pdf) [Video](https://www.youtube.com/watch?v=Wx_ZH97SMao) (Portuguese-Only)
+
+## Workshop on Offensive Security (WOOT) - 2023
+[GPThreas-3: Is Automated Malware Generation a Threat?](WOOT23/slide.pdf)
+
+## Brazilian Security Symposium (SBSEG) - Keynote - 2023
+[Near-memory & In-Memory Detection of Fileless Malware](SBSEG23/slides.pdf)
+
+## Texas A&M University (TAMU) - Introduction to Computing - Spring/2024
+[Machine Learning by Examples](TAMU24/slides.pdf)
+
+## InfraRede - Brazilian Internet Committee - 2024
+[Pilares da Segurança e Chaves criptográficas](InfraRede24/slide.pdf)
+
+## Global CyberSecurity Research Institute (GCRI), TAMU - 2024
+[Research @ Botacin's Lab](GCRI24/botacin-lab.pdf)
 
 ## Houston Security Conference (HOU.SEC.CON) - 2024
 [GPThreats: Fully-automated AI-generated malware and its security risks](HOUSEC/housec.pdf)

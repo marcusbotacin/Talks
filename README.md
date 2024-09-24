@@ -139,3 +139,9 @@ por Hardware](SBSEG16/2016-marcus-sbseg-tracer-slides.pdf)
 
 ## Hack In The Box (HITB) 2023
 [All You Always Wanted to Know About AntiViruses](HITB23/hitb.pdf)
+
+## Global CyberSecurity Reseach Institute (GCRI) - TAMU, 2024
+[Research @ Botacin's Lab](GCRI/botacin-lab.pdf)
+
+## Houston Security Conference (HOU.SEC.CON) - 2024
+[GPThreats: Fully-automated AI-generated malware and its security risks](HOUSEC/housec.pdf)
